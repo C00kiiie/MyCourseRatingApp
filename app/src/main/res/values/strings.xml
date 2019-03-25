@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyCourseRatingApp</string>
+    <string name="javaButton">Java</string>
+    <string name="q1">Subject Relevance</string>
+    <string name="q2">Teacher overall performance</string>
+    <string name="q3">Teacher preperation</string>
+    <string name="q4">Amount of feedback</string>
+    <string name="q5">Job oppetunities</string>
+    <string name="submitRateing">Sent Rating</string>
+</resources>
